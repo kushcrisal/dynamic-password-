@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include<stdio.h>  
 #include<conio.h>
-#include<time.h>
-#include<windows.h>
-#include<math.h>
+#include<time.h>  //for time structs
+#include<windows.h> // for clearing screen, flushing standard inputs
+#include<math.h> // for mathematical operations
 int password()
 {
     time_t currenttime;
